@@ -1,0 +1,18 @@
+.header-menu{
+    padding-left: 10px;
+    margin-left: 10px;
+
+}
+.class{
+    width:120px;
+    height: 60px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.box{
+    width: 100px;
+    height: 60px;
+    border: 1px solid black;
+    padding: 10px;
+
+}
