@@ -10,9 +10,28 @@
     padding: 10px;
 }
 .box{
-    width: 100px;
-    height: 60px;
+    width: 90px;
+    height:40px;
     border: 1px solid black;
     padding: 10px;
 
+}
+.select-animation{
+    width:100%;
+    height:500px;
+    padding: 250px;
+}
+
+.class-02-body{
+    margin-left: 15%;
+}
+
+.class-04-body{
+    margin-left: 5%;
+}
+.class-05-body{
+    margin-left: 5%;
+}
+.legend-row-02{
+    margin-top: 15px;
 }
