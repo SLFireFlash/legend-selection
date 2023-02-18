@@ -3,11 +3,17 @@
     margin-left: 10px;
 
 }
+.class:hover{
+    background-color: bisque;
+}
 .class{
     width:120px;
     height: 60px;
     border: 1px solid black;
     padding: 10px;
+}
+.menu-body{
+    max-width: 100%;
 }
 .box{
     width: 90px;
@@ -15,6 +21,9 @@
     border: 1px solid black;
     padding: 10px;
 
+}
+.box:hover{
+    background-color: aqua;
 }
 .select-animation{
     width:100%;
@@ -35,3 +44,7 @@
 .legend-row-02{
     margin-top: 15px;
 }
+
+.offitem {
+    pointer-events: none;
+  }
